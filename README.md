@@ -8,7 +8,6 @@ Esta es una calculadora web interactiva para encontrar equilibrios de Nash puros
 - Resalta únicamente los equilibrios de Nash puros en la tabla.
 - Cada celda es interactiva: al hacer clic, se explica por qué es o no un equilibrio de Nash.
 - Explicación lógica detallada de las mejores respuestas para cada jugador.
-- Opción para subir una imagen de una matriz y extraer los datos automáticamente (OCR).
 - Interfaz moderna, clara y adaptable a dispositivos móviles.
 
 ## ¿Qué es un equilibrio de Nash puro?
@@ -20,7 +19,6 @@ Es una combinación de estrategias donde ningún jugador puede mejorar su pago c
 3. Ingresa la matriz de pagos (cada celda como `a,b` donde `a` es el pago del Jugador 1 y `b` el del Jugador 2).
 4. Haz clic en "Calcular equilibrio de Nash".
 5. Haz clic en cualquier celda para ver la explicación detallada en el panel lateral.
-6. (Opcional) Sube una imagen de una matriz para extraer los datos automáticamente.
 
 ## Instalación y ejecución local
 No requiere instalación de dependencias. Solo necesitas un navegador web moderno.
